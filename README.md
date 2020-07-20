@@ -1,5 +1,5 @@
-### Currently a collection of interesting ML/Deep Learning Projects in various states of completion and iteration 😃
-## Hacking/Learning my way through: Generative Text 📝, Graph NN 🦒, etc...
+## Currently a just collection of interesting ML/Deep Learning Projects in various states of completion and iteration 😃
+#### Hacking/Learning my way through: Generative Text 📝, Graph NN 🦒, etc...
 
 <!--
 **synsypa/synsypa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
