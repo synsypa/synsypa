@@ -1,2 +1,2 @@
 ## Hacking/Learning my way through: Generative Text 📝, Graph NN 🦒, etc...
-#### Currently a just collection of interesting ML/Deep Learning Projects in various states of completion and iteration 😃
+#### Currently a just collection of interesting ML/Deep Learning Projects in various states of development and completion 😃
